@@ -1,0 +1,2 @@
+# pitati tetku i tecu da li zele da vode statistiku (omoguciti account u tom slucaju)
+# dizajnirati tok igre
